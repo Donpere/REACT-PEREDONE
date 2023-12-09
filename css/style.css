@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.green-blck {
+    height: 50vh;
+    background-color: green;
+}
